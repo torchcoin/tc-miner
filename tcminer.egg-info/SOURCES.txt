@@ -1,0 +1,8 @@
+README.md
+tcminer.py
+tcminer.egg-info/PKG-INFO
+tcminer.egg-info/SOURCES.txt
+tcminer.egg-info/dependency_links.txt
+tcminer.egg-info/entry_points.txt
+tcminer.egg-info/requires.txt
+tcminer.egg-info/top_level.txt
